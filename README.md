@@ -1,38 +1,69 @@
-# EcoFinds
-EcoFinds is a modern, responsive e-commerce web application built with Next.js and React. It allows users to browse products, manage their listings, and perform secure authentication with signup and login features.
+# 🌿 EcoFinds – Sustainable Second-Hand Marketplace
 
-## Features
-- User signup and login with secure password validation and credential verification.
-- Add, edit, and delete product listings with support for custom categories.
-- View and manage personal listings in the "My Listings" page.
-- Responsive design with modern UI components and password visibility toggles.
-- Navigation with authentication-aware header and logo.
+EcoFinds is a **modern, responsive e-commerce web application** built using **Next.js** and **React**. It empowers users to buy and sell second-hand products responsibly. The platform includes secure authentication, personalized listings, and a clean, user-friendly interface.
 
-## Technologies Used
-- Next.js (React framework)
-- React hooks and context for state management
-- Tailwind CSS for styling
-- Git for version control
+---
 
-## Getting Started
+## 🚀 Features
 
-### Prerequisites
+- 🔐 **Secure Authentication** – Signup/Login with password validation and credential verification  
+- 🛍️ **Product Management** – Add, edit, and delete product listings with category support  
+- 👤 **My Listings** – View and manage your personal products  
+- 📱 **Responsive Design** – Mobile-first UI built with Tailwind CSS  
+- 🔄 **Dynamic Navigation** – Header adapts based on authentication state
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js (React Framework), React Hooks & Context API  
+- **Styling**: Tailwind CSS  
+- **Version Control**: Git + GitHub
+
+---
+
+## 📂 Project Structure
+src/
+├── app/ # Main application pages and routes
+├── components/ # Reusable components (Header, Logo, etc.)
+├── context/ # Authentication and global state
+
+
+---
+
+## 📦 Getting Started
+
+### ✅ Prerequisites
+
 - Node.js (v16 or later)
 - npm or yarn
 
-git clone: [https://github.com/ashu987558/ecofinds-ecommerce-app.git]
+### 🔧 Installation
 
-## Deploymen
-You can deploy this Next.js app to platforms like Vercel, Netlify, or your own server.
+```bash
+git clone https://github.com/ashu987558/ecofinds-ecommerce-app.git
+cd ecofinds-ecommerce-app
+npm install
+npm run dev
 
-## Project Structure
+🌐 Demo
+🔗 Live Demo ([Google Drive](https://drive.google.com/file/d/1Nu_uL7QgZSBjvltWiFSCB8b16686eMM7/view?usp=drive_link))
+📦 GitHub Repo: EcoFinds on GitHub(https://github.com/ashu987558/ecofinds-ecommerce-app.git)
 
-- `src/app` - Main application pages and routes
-- `src/components` - Reusable UI components like Header and Logo
-- `src/context` - React context for authentication and state management
+🚀 Deployment
+EcoFinds can be deployed on platforms like:
 
-## Contributing
+Vercel
 
-Contributions are welcome! Please open issues or pull requests for improvements.
+Netlify
 
-Created by Umesh Bhatt
+Custom VPS or cloud hosting
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork the repository, open issues, or submit pull requests for improvements and new features.
+
+👤 Author
+Umesh Bhatt
+Made with ❤️ for Odoo x Hackathon
+
