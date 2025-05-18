@@ -39,7 +39,7 @@ src/
 
 - Node.js (v16 or later)
 - npm or yarn
-- 
+  
 ---
 
 🌐 D
