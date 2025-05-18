@@ -24,13 +24,14 @@ EcoFinds is a **modern, responsive e-commerce web application** built using **Ne
 
 ## 📂 Project Structure
 src/
+
 ├── app/ # Main application pages and routes
 
 ├── components/ # Reusable components (Header, Logo, etc.)
 
 ├── context/ # Authentication and global state
 
-
+---
 
 ## 📦 Getting Started
 
@@ -38,16 +39,20 @@ src/
 
 - Node.js (v16 or later)
 - npm or yarn
-
+- 
+---
 
 🌐 D
 🔗 Live Demo: https://drive.google.com/file/d/1Nu_uL7QgZSBjvltWiFSCB8b16686eMM7/view?usp=drive_link
 📦 GitHub Repo: https://github.com/ashu987558/ecofinds-ecommerce-app.git
 
+---
 
 🤝 Contributing
 Contributions are welcome!
 Feel free to fork the repository, open issues, or submit pull requests for improvements and new features.
+
+---
 
 👤 Author
 Umesh Bhatt
